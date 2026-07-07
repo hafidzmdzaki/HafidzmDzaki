@@ -1,4 +1,5 @@
-## Hi there 👋
+### Ohayou sekai
+## Good Morning World! 👋
 
 <!--
 **hafidzmdzaki/HafidzmDzaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on @IconPlus PLN 
+- 🌱 I’m exited to Grow my skill on @Networking technologies
+- 👯 I’m looking to collaborate on a Freelance Job
+- 💬 Ask me about my fav food 
+- 📫 How to reach me: Contact.hafidzdzaki@gmail.com
+- "Fun fact: All my Configuration works perfectly on my machine. If it doesn't on production, we might need to move your rack to my room."
